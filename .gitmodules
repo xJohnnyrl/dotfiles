@@ -1,0 +1,6 @@
+[submodule ".oh-my-bash"]
+	path = .oh-my-bash
+	url = https://github.com/ohmybash/oh-my-bash
+[submodule ".config/tmux/plugins/tpm"]
+	path = .config/tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
