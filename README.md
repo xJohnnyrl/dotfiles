@@ -1,9 +1,11 @@
 # My dotfiles
 
+Thank you to [kurealnum](https://github.com/kurealnum/dotfiles/tree/main) for inspiration on the system maintenance.
+
 Clone with this
 
 ```bash
-git clone --recurse-submodules
+git clone --recurse-submodules https://github.com/xJohnnyrl/dotfiles.git
 ```
 
 ## Packages to download
