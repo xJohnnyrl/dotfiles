@@ -28,6 +28,7 @@ Some may be missing
 - fzf
 - Yazi
 - Lazyvim
+- Nautilus
 
 ## My Folder structure
 
