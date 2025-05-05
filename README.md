@@ -26,6 +26,8 @@ Some may be missing
 - FiraCode Nerd Fonts
 - feh
 - fzf
+- Yazi
+- Lazyvim
 
 ## My Folder structure
 
