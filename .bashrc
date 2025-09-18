@@ -192,3 +192,5 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 export PATH=/home/johnny/.sst/bin:$PATH
 
 alias sysmaint=". /home/johnny/.config/scripts/sysmaintenance.sh"
+
+. "$HOME/.local/bin/env"
