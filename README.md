@@ -67,7 +67,7 @@ This will automatically restow all your dotfiles without prompts. If there are c
 - [UV](https://github.com/astral-sh/uv)
 - Bun
 - Go
-- C/C++
+- C/C++ (gcc)
 - Rust
 - Lua
 
