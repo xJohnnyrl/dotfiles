@@ -69,6 +69,7 @@ This will automatically restow all your dotfiles without prompts. If there are c
 - Go
 - C/C++
 - Rust
+- Lua
 
 ## My Folder structure
 
