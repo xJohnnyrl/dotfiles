@@ -1,0 +1,15 @@
+[user]
+	name = Johnny
+	email = 77713194+xJohnnyrl@users.noreply.github.com
+[init]
+	defaultBranch = main
+[credential]
+	helper = store
+[core]
+	autocrlf = input
+[fetch]
+	prune = true
+[rebase]
+	autoStash = true
+[help]
+	autocorrect = 20
