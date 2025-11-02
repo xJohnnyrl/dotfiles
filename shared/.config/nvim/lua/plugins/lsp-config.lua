@@ -58,7 +58,10 @@ return {
 
       for server, opts in pairs(servers) do
         opts.capabilities = capabilities
-        lspconfig[server].setup(opts)
+
+        vim.lsp.config[server] = opts
+
+        vim.lsp.enable(server)
       end
       vim.keymap.set("n", "K", vim.lsp.buf.hover, {})
       vim.keymap.set("n", "<leader>gd", vim.lsp.buf.definition, {})
