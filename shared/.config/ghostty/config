@@ -44,13 +44,15 @@
 #
 
 window-decoration = false
+fullscreen = true
+macos-non-native-fullscreen = visible-menu
 background-opacity = 0.8
 background = black
 background-blur = true
 mouse-hide-while-typing = true
-font-style = JetBrains Nerd Font
-font-size = 12
-cursor-style = bar
+font-style = JetBrainsMono Nerd Font
+font-size = 18
+cursor-style = block
 cursor-style-blink = true
 font-feature = -liga, -calt, -dlig
 shell-integration-features = cursor,sudo,title

@@ -13,3 +13,5 @@
 	autoStash = true
 [help]
 	autocorrect = 20
+[url "git@github.com:"]
+	insteadOf = https://github.com/
